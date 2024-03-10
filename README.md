@@ -9,4 +9,8 @@ width: 360px;
 height: 420px;
 }
 
+.overlay{
+bottom: 120px;
+}
+
 if needed

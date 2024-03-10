@@ -6,7 +6,7 @@ body {
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
     background-color: #ffffff;
 }
 
@@ -53,7 +53,7 @@ section {
     font-style: normal;
     font-weight: 700;
     line-height: 1.17;
-    letter-spacing: 0.54px;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     margin-right: 76px;
     padding: 0;
@@ -86,7 +86,7 @@ section {
     font-size: 16px;
     font-style: normal;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -106,7 +106,7 @@ section {
     height: 52px;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -117,7 +117,7 @@ section {
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -160,7 +160,7 @@ section {
     font-style: normal;
     font-weight: 700;
     line-height: 1.07;
-    letter-spacing: 1.12px;
+    letter-spacing: 0.02em;
     text-align: center;
     margin-bottom: 48px;
     max-width: 496px
@@ -185,7 +185,7 @@ section {
     font-style: normal;
     font-weight: 700;
     line-height: 1.11;
-    letter-spacing: 0.72px;
+    letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
     margin-bottom: 72px;
@@ -193,7 +193,7 @@ section {
 
 .hero {
     background-color: #2E2F42;
-    background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office1.jpg);
+    background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/bg.jpg);
     padding: 188px 0;
     margin: auto;
     max-width: 1440px;
@@ -211,7 +211,7 @@ section {
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.64px;
+    letter-spacing: 0.04em;
     background: #4D5AE5;
     border: none;
     border-radius: 4px;
@@ -297,7 +297,7 @@ section {
     font-weight: 500;
     font-style: normal;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
     margin-bottom: 8px;
 }
 
@@ -308,7 +308,7 @@ section {
 .feature-list-p {
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .key-people-list {
@@ -335,7 +335,7 @@ section {
     font-size: 20px;
     font-style: normal;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
     margin-bottom: 8px;
     text-align: center;
 }
@@ -343,7 +343,7 @@ section {
 .key-people-roles {
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
     text-align: center;
     margin-bottom: 8px;
 }
@@ -411,7 +411,7 @@ section {
     font-size: 20px;
     font-style: normal;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
     margin-bottom: 8px;
     text-align: left;
 }
@@ -429,7 +429,7 @@ img {
 .project-cards-types {
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .footer {
@@ -451,7 +451,7 @@ img {
     font-style: normal;
     font-weight: 700;
     line-height: 1.17;
-    letter-spacing: 0.54px;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     margin-bottom: 16px;
 }
@@ -464,7 +464,7 @@ img {
     color: #F4F4FD;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
     max-width: 264px;
 }
 
@@ -473,7 +473,7 @@ img {
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     text-align: left;
     margin-bottom: 16px;
 }

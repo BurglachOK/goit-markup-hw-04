@@ -162,7 +162,7 @@ section {
     line-height: 1.07;
     letter-spacing: 1.12px;
     text-align: center;
-    padding-bottom: 48px;
+    margin-bottom: 48px;
     max-width: 496px
 }
 
@@ -385,7 +385,7 @@ section {
     color: rgb(244, 244, 253);
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 1em;
+    letter-spacing: 0.02em;
     text-align: left;
     padding: 40px 32px;
     background: rgb(77, 90, 229);
@@ -443,7 +443,7 @@ img {
     align-items: baseline;
 }
 
-.logo {
+.logo-end {
     display: inline-block;
     color: #4D5AE5;
     font-family: 'Raleway', sans-serif;

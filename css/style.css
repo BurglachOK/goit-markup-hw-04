@@ -401,8 +401,8 @@ section {
         0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
-.project-cards-list .overlay {
-    transform: translateY(0);
+.project-cards-list:hover .overlay {
+    transform: translateY(0%);
 }
 
 .project-cards-head {
